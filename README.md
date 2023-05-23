@@ -12,6 +12,7 @@ This program is written in the Go programming language.
 - Test internet speed
 - Test available interfaces
 - Test VPN
+- and more ...
 
 ## Installation
 
